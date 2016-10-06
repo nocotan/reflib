@@ -1,3 +1,9 @@
+/**
+ * @file estd.hpp
+ * @brief Effective standard template library
+ * @author nocotan (noconoco.lib@gmail.com)
+ * @date 2016-10-06
+ */
 #ifndef REFLIB_ESTD_HPP
 #define REFLIB_ESTD_HPP
 
